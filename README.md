@@ -1,6 +1,6 @@
 <img src="./src/icon.svg" width="100" /><br>
 # Better Anchor <br>
-Description <br>
+Anchor object to parent or viewport with constraints <br>
 <br>
 Author: skymen <br>
 <sub>Made using [c3ide2-framework](https://github.com/ConstructFund/c3ide2-framework) </sub><br>
