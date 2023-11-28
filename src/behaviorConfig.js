@@ -3,7 +3,7 @@ module.exports = {
   addonType: "behavior",
   id: "skymen_parent_anchor",
   name: "Better Anchor",
-  version: "1.0.0.0",
+  version: "1.0.0.1",
   category:
     // "attributes",
     // "movements",
