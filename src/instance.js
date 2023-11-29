@@ -24,7 +24,6 @@ function getInstanceJs(parentClass, scriptInterface, addonTriggers, C3) {
 
       this._needUpdateXY = false;
       this.parentAngle = 0;
-      debugger;
       if (properties) {
         this._resizeMode = properties[0];
 
